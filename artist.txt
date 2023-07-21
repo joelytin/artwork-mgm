@@ -1,0 +1,15 @@
+8742|Frida Kahlo|Painting|Deceased|150000-200000
+2190|Ai Wei Wei|Sculpture|Alive|75000-100000
+3067|David Hockney|Drawing|Alive|40000-60000
+4512|Yayoi Kusama|Printmaking|Alive|80000-120000
+6178|Basquiat|Collage|Deceased|100000-150000
+2905|Tracey Emin|Digital Art|Alive|30000-50000
+1294|Annie Leibovitz|Photography|Alive|50000-75000
+9250|Matthew Barney|VideoArt|Alive|60000-80000
+7485|Marina Abramovic|Performance Art|Alive|90000-120000
+5367|Jean Michel Basquiat|Painting|Deceased|200000-250000
+3572|Damien Hirst|Sculpture|Alive|150000-180000
+1093|Gerhard Richter|Drawing|Alive|70000-90000
+6248|Takashi Murakami|Printmaking|Alive|100000-130000
+9637|JR|Collage|Alive|40000-60000
+2389|Olafur Eliasson|Digital Art|Alive|80000-100000
